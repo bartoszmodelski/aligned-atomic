@@ -1,0 +1,5 @@
+(library
+ (name aligned_atomic)
+ (foreign_stubs
+  (language c)
+  (names aligned_atomic_stubs)))
